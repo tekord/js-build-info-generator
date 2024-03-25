@@ -2,9 +2,9 @@
   "name": "@tekord/build-info-generator",
   "version": "1.0.0",
   "description": "",
+  "author": "Cyrill Tekord (https://github.com/tekord)",
   "main": "src/index.js",
   "types": "@types/index.d.ts",
-  "author": "",
   "license": "MIT",
   "type": "module"
 }
